@@ -15,12 +15,12 @@ p{
 }
 h2{ 
     font-family:monospace;
-    font-size: 70;
+    font-size: 60;
     background-color: darkblue;
     color: red;
     background-image:url(https://cdn3.movieweb.com/i/article/QOqcKLec58AQFQ5bUCc134eU6U4YYh/738:50/Marvel-Vs-Dc-Movies-Research-Winner.jpg);
-    background-blend-mode:luminosity
+    background-blend-mode:luminosity;
+    margin-right: 450px;
 }
 h3{
     color:darkgoldenrod;
-}
